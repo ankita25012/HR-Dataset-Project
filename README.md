@@ -63,3 +63,6 @@ This Excel dashboard enables HR professionals to interactively explore employee 
 
 ---
 
+## 📊 Visualization:
+1[image alt](https://github.com/Ankita-Wasekar/HR-Dataset-Project/blob/19e53ded91463e9f9b8cf061dac1f5abaea64574/HR%20dataset%20Dashboard.png)
+
